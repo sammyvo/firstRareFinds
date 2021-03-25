@@ -1,1 +1,1 @@
-# firstRareFinds
+# Rare Finds 
